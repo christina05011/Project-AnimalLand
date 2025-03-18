@@ -4,8 +4,8 @@ on:
       - main
 
 jobs:
-  print:
-    runs-on: ubuntu-;atest
+  message:
+    runs-on: ubuntu-latest
     steps:
       - name: Print message
         run: echo "Message"
