@@ -1,0 +1,11 @@
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  print:
+    runs-on: ubuntu-;atest
+    steps:
+      - name: Print message
+        run: echo "Message"
