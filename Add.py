@@ -6,3 +6,7 @@ num2 = float(input("Enter the second number: "))
 
 result = add(num1, num2)
 print(f"The sum ({num1} + {num2}) is: {result}")
+num2 = float(input("Enter the second hbsdhbhsdbhsdbh number: "))
+
+result = add(num1, num2)
+print(f"{num1} + {num2} = {result}")
